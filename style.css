@@ -1,0 +1,26 @@
+/* UNIVERSAL SILACTOR */
+* {
+    font-family: monospace;
+}
+
+/*ELEMENT SELECTOR*/
+p {
+    color: rgb(91, 163, 163);
+}
+
+/* CLASS SELECTOR */
+.myclass {
+    color: rgb(53, 81, 91);
+    font-weight: bold;
+}
+
+/* id SELECTOR */
+#myid {
+    font-size: 18px;
+}
+
+/* GROUP SELECTOR */
+h4,
+ul {
+    color: #354540;
+}
